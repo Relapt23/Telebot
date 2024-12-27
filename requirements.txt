@@ -1,0 +1,4 @@
+sqlalchemy
+pyTelegramBotAPI
+openai
+psycopg2-binary
